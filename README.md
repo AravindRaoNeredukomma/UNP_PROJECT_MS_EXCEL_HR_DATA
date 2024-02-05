@@ -7,4 +7,4 @@
 6. The employee attrition rate at the company receiving a rating of 1 for job satisfaction  is notably high.
 7.The rate of employee attrition as a whole is 16%.
 PDF LINK:https://drive.google.com/file/d/1UDUkrHK_afG9TbADHk0mOJy6RbVXj_zc/view?usp=sharing
-MS_EXCEL LIMK:https://docs.google.com/spreadsheets/d/1LEtSZ6h9Evj9KhYKqwSmOgPbiqQtErxF/edit?usp=sharing&ouid=109105110878691972152&rtpof=true&sd=true
+MS_EXCEL LINK:https://docs.google.com/spreadsheets/d/1LEtSZ6h9Evj9KhYKqwSmOgPbiqQtErxF/edit?usp=sharing&ouid=109105110878691972152&rtpof=true&sd=true
